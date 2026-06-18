@@ -40,8 +40,8 @@ foldengu folder1/ folder2/
 Run the setup script to append these functions to your `~/.zshrc`:
 
 ```bash
-chmod +x append_to_zshrc.sh
-./append_to_zshrc.sh
+chmod +x script.sh
+./script.sh
 ```
 
 Then reload your shell:
